@@ -9,10 +9,9 @@ import js.JQuery;
 class MainClient
 {
 	
-
 	static function main():Void
 	{
-		trace("Hello World");			
+		trace("Client> Initialize");			
 	}
 	
 }
