@@ -27,6 +27,7 @@ Some elements are already loaded in their correct places. But in order to correc
 * Download the most recent WebStarterKit bundle [https://github.com/google/web-starter-kit/releases/latest]
 * Unzip it in your `project` target folder
 * On your CLI run:
+ * `cd client/`
  * `npm install`
  * `npm install gulp -g`
 * Make sure `gulp` is accessible globally from your CLI
