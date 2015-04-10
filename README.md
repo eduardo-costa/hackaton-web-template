@@ -1,7 +1,14 @@
 # Template for Web Hackatons
 This repository contains a pre-assembled set of elements to speed up the development of a web project.
 
-## Tech
+<img src="https://github.com/eduardo-costa/hackaton-web-template/raw/1.0/design/logos-technology/tools/logo-wsk-128.png" alt="alt text" width="64px" height="64px">
+<img src="https://github.com/eduardo-costa/hackaton-web-template/raw/1.0/design/logos-technology/tools/logo-gulp-128.png" alt="alt text" width="64px" height="64px">
+<img src="https://github.com/eduardo-costa/hackaton-web-template/raw/1.0/design/logos-technology/tools/logo-oic-128.png" alt="alt text" width="64px" height="64px">
+<img src="https://github.com/eduardo-costa/hackaton-web-template/raw/1.0/design/logos-technology/tools/logo-nodejs-128.png" alt="alt text" width="64px" height="64px">
+<img src="https://github.com/eduardo-costa/hackaton-web-template/raw/1.0/design/logos-technology/tools/logo-haxe-128.png" alt="alt text" width="64px" height="64px">
+<img src="https://github.com/eduardo-costa/hackaton-web-template/raw/1.0/design/logos-technology/tools/logo-flashdevelop-128.png" alt="alt text" width="64px" height="64px">  
+
+## Tools
 It uses some of the mostly used tools nowadays. Some of them are:
 * Web Starter Kit [https://developers.google.com/web/starter-kit/]
  * Quick guidelines and tools to make desktop/mobile responsive pages
